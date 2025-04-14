@@ -189,6 +189,10 @@ The course places a strong emphasis on hands-on exercises with HTML and CSS, whi
     <th>Certificate</th>
     </tr>
      <tr>
+     <td>ReactJS</td>
+      <td><a href="https://softuni.bg/certificates/details/242157/be03c545"><strong>See certificate</strong></a></td>
+  </tr> 
+     <tr>
      <td>HTML & CSS</td>
       <td><a href="https://softuni.bg/certificates/details/218526/dff8fc32"><strong>See certificate</strong></a></td>
   </tr> 
