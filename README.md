@@ -179,6 +179,49 @@ The course places a strong emphasis on hands-on exercises with HTML and CSS, whi
 [HTML & CSS](https://github.com/zlatozaraZlatkova/SoftUni-JS-Courses-2023-2024/tree/main/09.HTML-CSS-May-2024)
 
 </details>
+<details>
+  
+<summary><b>ReactJS Feb-2025</b></summary>
+
+###### Description
+
+The purpose of the ReactJS SPA course was to provide comprehensive knowledge and practical skills in building modern client-side applications using ReactJS. The course covered architectural patterns for Single Page Applications (SPA), components, views, templates for data visualization, models, data binding, handling multiple views, routing, and retrieving data from REST services.
+
+The course focused on hands-on exercises using ReactJS, including working with JSX syntax, managing API requests and Promises, splitting applications into reusable components, form validation, and various styling techniques such as CSS Modules and Styled Components. New concepts in React, including Hooks and the Context API, were also covered. Additionally, participants were introduced to writing Unit Tests with JEST and using AI tools to automate routine tasks, allowing more focus on deeper understanding and practical application of the concepts.
+
+###### Skills
+
+- Build Single Page Applications (SPA)
+- Work with ReactJS components and JSX
+- Implement routing and handle multiple views
+- Connect applications to REST APIs
+- Manage state with React Hooks and Context API
+- Validate forms and style components (CSS Modules, Styled Components)
+
+</details>
+<details>
+  
+<summary><b>Angular Jun-2025</b></summary>
+
+###### Description
+
+The Angular course provided comprehensive knowledge and practical skills for building Single Page Applications (SPA) using Angular, a popular framework developed by Google. Participants learned the basics of TypeScript, including its syntax, concepts, and additional features that enhance development for both web and mobile platforms.
+
+The course covered SPA architectural patterns, Angular components and directives, templates for data visualization, models, data binding, handling multiple views, observables, routing, retrieving data from REST services, dependency injection (DI), and writing unit tests using Karma and Jasmine. The focus was on hands-on exercises, allowing participants to implement real-world scenarios and build fully functional, modern Angular applications.
+
+
+###### Skills
+
+- Build Single Page Applications (SPA) with Angular
+- Work with TypeScript, components, and directives
+- Implement templates, data binding, and observables
+- Manage multiple views and routing
+- Connect applications to REST APIs
+- Apply dependency injection (DI) for scalable architecture
+- Write unit tests with Karma and Jasmine
+- Develop fully functional and maintainable Angular applications
+
+</details>
 
 ## Courses and Certificates
 
@@ -188,6 +231,10 @@ The course places a strong emphasis on hands-on exercises with HTML and CSS, whi
     <th>Course</th>
     <th>Certificate</th>
     </tr>
+      <tr>
+     <td>Angular</td>
+      <td><a href="https://softuni.bg/certificates/details/250014/40bd81b6"><strong>See certificate</strong></a></td>
+  </tr> 
      <tr>
      <td>ReactJS</td>
       <td><a href="https://softuni.bg/certificates/details/242157/be03c545"><strong>See certificate</strong></a></td>
