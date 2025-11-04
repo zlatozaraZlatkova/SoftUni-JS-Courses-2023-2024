@@ -222,6 +222,23 @@ The course covered SPA architectural patterns, Angular components and directives
 - Develop fully functional and maintainable Angular applications
 
 </details>
+<details>
+  
+<summary><b>Software Engineering and DevOps Sep-2025</b></summary>
+
+###### Description
+
+Studied the core concepts and practices of DevOps in a Linux environment. Gained theoretical knowledge and hands-on experience in virtualization, containerization, and automation of processes such as provisioning, configuration, and system monitoring. Worked with tools for collaborative development and code management, and applied AI to optimize routine tasks and enhance team efficiency.
+
+###### Skills
+
+- Working with Git and GitHub
+- Using tools and methodologies for team collaboration
+- Creating and managing Continuous Integration processes
+- Working with CI/CD pipelines
+- Setting up automated testing environments
+
+</details>
 
 ## Courses and Certificates
 
@@ -231,6 +248,10 @@ The course covered SPA architectural patterns, Angular components and directives
     <th>Course</th>
     <th>Certificate</th>
     </tr>
+    <tr>
+     <td>Software Engineering and DevOps</td>
+      <td><a href="https://softuni.bg/certificates/details/252708/a82591ef"><strong>See certificate</strong></a></td>
+  </tr> 
       <tr>
      <td>Angular</td>
       <td><a href="https://softuni.bg/certificates/details/250014/40bd81b6"><strong>See certificate</strong></a></td>
