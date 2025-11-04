@@ -24,7 +24,7 @@ In addition to application development, they master DevOps practices such as CI/
 Program Structure:
 - Total Credits: 160
 - Duration: ~24 months
-- Modules: 7 core courses + 1 DevOps and Cloud specialization
+- Modules: 8 core courses + 1 DevOps and Cloud specialization
 <br><br>
 <details open>
 <summary><b>Click to expand / collapse Curriculum section</b></summary>
@@ -57,6 +57,44 @@ The Programming Basics course provides the necessary beginning programming skill
 </details>
 
 <details>
+   <summary><b>SoftUni QA Basics Jan-2023</b></summary>
+   
+###### Description
+
+The QA Basics course provides fundamental knowledge and practical skills in software testing, necessary for the QA technology track at Software University. The module covers key concepts in the field of software testing, including testing principles, bug detection, analysis and documentation, test scenarios and test cases, testing levels, and testing types. It also includes practical work with specialized software tools for bug tracking and documentation.
+      
+###### Skills
+
+- Understanding of the main areas within Quality Assurance
+- Basic knowledge of different testing levels and testing types
+- Understanding of the principles for creating test scenarios
+- Understanding of the concept of software defects (bugs)
+- Skills in identifying, analyzing, and documenting bugs
+   
+  
+   
+</details>
+
+<details>
+  
+<summary><b>SoftUni Software Technologies May-2023</b></summary>
+
+###### Description
+
+Fundamental concepts in the software industry include software quality assurance and manual software testing.
+
+###### Skills
+
+- Identify hardware and software components in a computer system
+- Working with different operating systems
+- Accessing and working with remote resources
+- Working with relational and non-relational databases
+- Basic work with different programming languages
+- Working with different project management systems
+
+</details>
+
+<details>
   
 <summary><b>SoftUni Programming Fundamentals May-2023</b></summary>
 
@@ -79,6 +117,25 @@ Additional technologies that are essential for every software developer are thor
 [Programming Fundamentals](https://github.com/zlatozaraZlatkova/SoftUni-JS-Courses-2023-2024/tree/main/02.Programming-Fundamentals-with-JavaScript-May-2023)
 
 </details>
+
+<details>
+   <summary><b>SoftUni QA Fundamentals and Manual Testing Jun-2023</b></summary>
+
+###### Description
+The QA Fundamentals and Manual Testing course introduces participants to the core concepts of software quality assurance (QA). It covers methods for identifying software defects through the use of appropriate input data and techniques for testing user experience. Students practice various testing approaches and learn to determine which method is most suitable for different situations. The course also explores testing software characteristics related to performance, such as load, security, and compatibility. In addition, participants gain hands-on experience with techniques and tools used for manual testing of complete software projects.
+   
+###### Skills
+
+- Working with defect tracking systems
+- Manual testing of software projects
+- Applying software testing techniques: black-box, white-box, and regression testing
+- Testing web-based systems
+- Working with software requirements specifications (SRS)
+- Working with relational databases
+- Executing HTTP requests using Postman
+   
+</details>
+
 <details>
   
 <summary><b>SoftUni JS Advanced Sep-2023</b></summary>
@@ -289,6 +346,20 @@ Curriculum ───────────────────────
     │                 └─► SPA Development, State Management
     │                 └─► <a href="https://softuni.bg/certificates/details/242157/be03c545"><strong>See certificate - ReactJS</strong></a>
     │                 └─► <a href="https://softuni.bg/certificates/details/250014/40bd81b6"><strong>See certificate - Angular</strong></a>
+    │
+    ├───────► <strong>[Elective Courses]</strong>
+    │
+    ├─► [Elective 1]  QA Basics
+    │                 └─► Hardware, Software, Operating Systems
+    │                 └─► <a href="https://softuni.bg/certificates/details/153967/b70bae7c"><strong>See certificate</strong></a>
+    │
+    ├─► [Elective 2]  Software Technologies
+    │                 └─► Programming Languages, Databases, Project Management
+    │                 └─► <a href="https://softuni.bg/certificates/details/176543/efb124ba"><strong>See certificate</strong></a>
+    │
+    ├─► [Elective 3]  QA Fundamentals and Manual Testing
+    │                 └─► Software Quality Assurance, Manual Testing
+    │                 └─► <a href="https://softuni.bg/certificates/details/184220/6fb431ba"><strong>See certificate</strong></a>
     │
     ├───────► <strong>[Specialization Module]</strong>
     │
