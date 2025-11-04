@@ -36,7 +36,7 @@ The following section outlines the main modules of study and provides a brief ex
 <details>
 
 <br><br>
-<summary><b>SoftUni Programming Basics Nov-2022</b></summary>
+<summary><b>Programming Basics Nov-2022</b></summary>
 
 ###### Description
 
@@ -57,7 +57,7 @@ The Programming Basics course provides the necessary beginning programming skill
 </details>
 
 <details>
-   <summary><b>SoftUni QA Basics Jan-2023</b></summary>
+   <summary><b>QA Basics Jan-2023</b></summary>
    
 ###### Description
 
@@ -77,7 +77,7 @@ The QA Basics course provides fundamental knowledge and practical skills in soft
 
 <details>
   
-<summary><b>SoftUni Software Technologies May-2023</b></summary>
+<summary><b>Software Technologies May-2023</b></summary>
 
 ###### Description
 
@@ -96,7 +96,7 @@ Fundamental concepts in the software industry include software quality assurance
 
 <details>
   
-<summary><b>SoftUni Programming Fundamentals May-2023</b></summary>
+<summary><b>Programming Fundamentals May-2023</b></summary>
 
 ###### Description
 
@@ -119,7 +119,7 @@ Additional technologies that are essential for every software developer are thor
 </details>
 
 <details>
-   <summary><b>SoftUni QA Fundamentals and Manual Testing Jun-2023</b></summary>
+   <summary><b>QA Fundamentals and Manual Testing Jun-2023</b></summary>
 
 ###### Description
 The QA Fundamentals and Manual Testing course introduces participants to the core concepts of software quality assurance (QA). It covers methods for identifying software defects through the use of appropriate input data and techniques for testing user experience. Students practice various testing approaches and learn to determine which method is most suitable for different situations. The course also explores testing software characteristics related to performance, such as load, security, and compatibility. In addition, participants gain hands-on experience with techniques and tools used for manual testing of complete software projects.
@@ -138,7 +138,7 @@ The QA Fundamentals and Manual Testing course introduces participants to the cor
 
 <details>
   
-<summary><b>SoftUni JS Advanced Sep-2023</b></summary>
+<summary><b>JS Advanced Sep-2023</b></summary>
 
 ###### Description
 
@@ -160,7 +160,7 @@ In the 'JS Advanced' course, students get in-depth knowledge of the JavaScript l
 </details>
 <details>
   
-<summary><b>SoftUni JS Applications Oct-2023</b></summary>
+<summary><b>JS Applications Oct-2023</b></summary>
 
 ###### Description
 
@@ -182,7 +182,7 @@ The course required creating a single-page application using the techniques lear
 </details>
 <details>
   
-<summary><b>SoftUni JS Back-End Jan-2024</b></summary>
+<summary><b>JS Back-End Jan-2024</b></summary>
 
 ###### Description
 
@@ -203,7 +203,7 @@ The intensive course aims to teach how to develop server-side JavaScript applica
 </details>
 <details>
   
-<summary><b>SoftUni TypeScript Apr-2024</b></summary>
+<summary><b>TypeScript Apr-2024</b></summary>
 
 ###### Description
 
@@ -223,7 +223,7 @@ TypeScript is the most popular language for developing server and front-end appl
 </details>
 <details>
   
-<summary><b>SoftUni HTML & CSS May-2024</b></summary>
+<summary><b>HTML & CSS May-2024</b></summary>
 
 ###### Description
 
