@@ -21,6 +21,11 @@ JavaScript Full-Stack Developers with DevOps specialization build, automate, and
 
 In addition to application development, they master DevOps practices such as CI/CD processes with GitHub Actions and Jenkins, containerization with Docker and Docker Compose, cloud technologies, and infrastructure as code. The program provides a comprehensive understanding of software development and DevOps methodologies, which allows specialists to build, automate, and maintain reliable systems.
 
+Program Structure:
+- Total Credits: 160
+- Duration: ~24 months
+- Modules: 7 core courses + 1 DevOps and Cloud specialization
+<br><br>
 <details open>
 <summary><b>Click to expand / collapse Curriculum section</b></summary>
 
@@ -30,6 +35,7 @@ The following section outlines the main modules of study and provides a brief ex
 
 <details>
 
+<br><br>
 <summary><b>SoftUni Programming Basics Nov-2022</b></summary>
 
 ###### Description
@@ -241,7 +247,7 @@ Studied the core concepts and practices of DevOps in a Linux environment. Gained
 
 </details>
 
-
+<br>
 
 ## My Educational Journey - JavaScript Full-Stack Developer
 
