@@ -4,7 +4,7 @@
    </a>
 </div>
 
-<h1 align="center">Software Engineering</h1>
+<h1 align="center">JavaScript Full-Stack Developer</h1>
 
 <p align="center">
 <b><i>A professional software engineering program, designed in partnership with IT organizations, which involves working on cutting-edge software technologies and learning a best practice in programming and software testing.</i></b>
@@ -17,8 +17,9 @@
 
 ## About
 
-The professional software engineering program at SoftUni is designed to equip students with the fundamental knowledge and practical skills required to become software engineers, with a focus on the latest software technologies and best practices in programming.
-The curriculum comprises several professional fields and subsequent specializations, comprising a selection of training modules. Each training module is comprised of courses with a strong focus on practice, with students completing a practical exam at the end of each course to demonstrate the skills they have acquired.
+JavaScript Full-Stack Developers with DevOps specialization build, automate, and maintain reliable web and server applications. They master key programming principles - logical thinking, functional programming, as well as working with JavaScript, React, Angular, HTML & CSS, Node.js, REST services, cloud technologies, and Git.
+
+In addition to application development, they master DevOps practices such as CI/CD processes with GitHub Actions and Jenkins, containerization with Docker and Docker Compose, cloud technologies, and infrastructure as code. The program provides a comprehensive understanding of software development and DevOps methodologies, which allows specialists to build, automate, and maintain reliable systems.
 
 <details open>
 <summary><b>Click to expand / collapse Curriculum section</b></summary>
@@ -240,55 +241,55 @@ Studied the core concepts and practices of DevOps in a Linux environment. Gained
 
 </details>
 
-## Courses and Certificates
 
-<div>
-<table>
-  <tr>
-    <th>Course</th>
-    <th>Certificate</th>
-    </tr>
-    <tr>
-     <td>Software Engineering and DevOps</td>
-      <td><a href="https://softuni.bg/certificates/details/252708/a82591ef"><strong>See certificate</strong></a></td>
-  </tr> 
-      <tr>
-     <td>Angular</td>
-      <td><a href="https://softuni.bg/certificates/details/250014/40bd81b6"><strong>See certificate</strong></a></td>
-  </tr> 
-     <tr>
-     <td>ReactJS</td>
-      <td><a href="https://softuni.bg/certificates/details/242157/be03c545"><strong>See certificate</strong></a></td>
-  </tr> 
-     <tr>
-     <td>HTML & CSS</td>
-      <td><a href="https://softuni.bg/certificates/details/218526/dff8fc32"><strong>See certificate</strong></a></td>
-  </tr> 
-  <tr>
-     <td>TypeScript</td>
-      <td><a href="https://softuni.bg/certificates/details/215471/40758059"><strong>See certificate</strong></a></td>
-  </tr>  
-   <tr>
-     <td>JavaScript Back-End</td>
-      <td><a href="https://softuni.bg/certificates/details/212137/c592f8c3"><strong>See certificate</strong></a></td>
-  </tr>  
-  <tr>
-     <td>JavaScript Applications</td>
-     <td><a href="https://softuni.bg/certificates/details/198127/d0656ae6"><strong>See certificate</strong></a></td>
-  </tr>
-    <td>JavaScript Advanced</td>
-   <td><a href="https://softuni.bg/certificates/details/188228/e928dea1"><strong>See certificate</strong></a></td>
-  </tr>
-  <tr>
-    <td>JavaScript Fundamentals</td>
-    <td><a href="https://softuni.bg/certificates/details/180310/c66384e4"><strong>See certificate</strong></a></td>
-  </tr>
-  <tr>
-    <td>JavaScript Basics</td>
-    <td><a href="https://softuni.bg/certificates/details/150836/db494898"><strong>See certificate</strong></a></td>
-  </tr>
-</table>
-</div>
+
+## My Educational Journey - JavaScript Full-Stack Developer
+
+<pre>
+Curriculum ──────────────────────────────────────────────────> Full-Stack Developer
+    │
+    ├───────► <strong>[Entry Module]</strong>
+    │
+    ├─► [Module 1]    Programming Basics
+    │                 └─► Variables, Loops, Conditionals
+    │                 └─► <a href="https://softuni.bg/certificates/details/150836/db494898"><strong>See certificate</strong></a>
+    │
+    ├───────► <strong>[Fundamentals Module]</strong>
+    │
+    ├─► [Module 2]    Programming Fundamentals  
+    │                 └─► Arrays, Objects, HTML/CSS Basics
+    │                 └─► <a href="https://softuni.bg/certificates/details/180310/c66384e4"><strong>See certificate</strong></a>
+    │
+    ├───────► <strong>[Professional Modules]</strong>
+    │
+    ├─► [Module 3]    JS Advanced + JS Applications
+    │                 └─► OOP, DOM, Async, REST APIs
+    │                 └─► <a href="https://softuni.bg/certificates/details/188228/e928dea1"><strong>See certificate - JS Advanced</strong></a>
+    │                 └─► <a href="https://softuni.bg/certificates/details/198127/d0656ae6"><strong>See certificate - JS Applications</strong></a>
+    │
+    ├─► [Module 4]    JS Back-End
+    │                 └─► Node.js, Express, MongoDB
+    │                 └─► <a href="https://softuni.bg/certificates/details/212137/c592f8c3"><strong>See certificate</strong></a>
+    │
+    ├─► [Module 5]    HTML & CSS
+    │                 └─► Responsive Design, Modern Web
+    │                 └─► <a href="https://softuni.bg/certificates/details/218526/dff8fc32"><strong>See certificate</strong></a>
+    │
+    ├─► [Module 6]    TypeScript
+    │                 └─► Type Safety, Advanced OOP
+    │                 └─► <a href="https://softuni.bg/certificates/details/215471/40758059"><strong>See certificate</strong></a>
+    │
+    ├─► [Module 7]    ReactJS + Angular
+    │                 └─► SPA Development, State Management
+    │                 └─► <a href="https://softuni.bg/certificates/details/242157/be03c545"><strong>See certificate - ReactJS</strong></a>
+    │                 └─► <a href="https://softuni.bg/certificates/details/250014/40bd81b6"><strong>See certificate - Angular</strong></a>
+    │
+    ├───────► <strong>[Specialization Module]</strong>
+    │
+    └─► [Module 8]    DevOps Specialization ⭐
+                      └─► CI/CD, Docker, Cloud, Automation
+                      └─► <a href="https://softuni.bg/certificates/details/252708/a82591ef"><strong>See certificate</strong></a>
+</pre>
 
 ## License
 
