@@ -314,57 +314,61 @@ Curriculum ───────────────────────
     ├───────► <strong>[Entry Module]</strong>
     │
     ├─► [Module 1]    Programming Basics
-    │                 └─► Variables, Loops, Conditionals
+    │                 └─► Console I/O, Loops, Conditionals, Simple Calculations
     │                 └─► <a href="https://softuni.bg/certificates/details/150836/db494898"><strong>See certificate</strong></a>
     │
     ├───────► <strong>[Fundamentals Module]</strong>
     │
     ├─► [Module 2]    Programming Fundamentals  
-    │                 └─► Arrays, Objects, HTML/CSS Basics
+    │                 └─► Arrays, Objects, Classes, HTML/CSS, HTTP, Algorithm Design
     │                 └─► <a href="https://softuni.bg/certificates/details/180310/c66384e4"><strong>See certificate</strong></a>
     │
     ├───────► <strong>[Professional Modules]</strong>
     │
     ├─► [Module 3]    JS Advanced + JS Applications
-    │                 └─► OOP, DOM, Async, REST APIs
+    │                 └─► OOP, Functional Programming, DOM, Events, Prototype Chain
     │                 └─► <a href="https://softuni.bg/certificates/details/188228/e928dea1"><strong>See certificate - JS Advanced</strong></a>
+    |                 |
+    │                 └─► HTTP, REST, Async/Await, Routing, Design Patterns, Webpack
     │                 └─► <a href="https://softuni.bg/certificates/details/198127/d0656ae6"><strong>See certificate - JS Applications</strong></a>
     │
     ├─► [Module 4]    JS Back-End
-    │                 └─► Node.js, Express, MongoDB
+    │                 └─► Node.js, Express, MVC, MongoDB, Mongoose, REST APIs, Authentication
     │                 └─► <a href="https://softuni.bg/certificates/details/212137/c592f8c3"><strong>See certificate</strong></a>
     │
     ├─► [Module 5]    HTML & CSS
-    │                 └─► Responsive Design, Modern Web
+    │                 └─► HTML5, CSS3, Responsive Design, Flexbox, Mobile-First
     │                 └─► <a href="https://softuni.bg/certificates/details/218526/dff8fc32"><strong>See certificate</strong></a>
     │
     ├─► [Module 6]    TypeScript
-    │                 └─► Type Safety, Advanced OOP
+    │                 └─► Static Typing, OOP, Classes, Interfaces, Generics, Decorators
     │                 └─► <a href="https://softuni.bg/certificates/details/215471/40758059"><strong>See certificate</strong></a>
     │
     ├─► [Module 7]    ReactJS + Angular
-    │                 └─► SPA Development, State Management
+    │                 └─► JSX, Hooks, Context API, Routing, State Management, Unit Testing (JEST)
     │                 └─► <a href="https://softuni.bg/certificates/details/242157/be03c545"><strong>See certificate - ReactJS</strong></a>
+    |                 | 
+    │                 └─► Components, Directives, Observables, DI, Karma & Jasmine
     │                 └─► <a href="https://softuni.bg/certificates/details/250014/40bd81b6"><strong>See certificate - Angular</strong></a>
     │
     ├───────► <strong>[Elective Courses]</strong>
     │
     ├─► [Elective 1]  QA Basics
-    │                 └─► Hardware, Software, Operating Systems
+    │                 └─► Testing Principles, Test Cases, Bug Tracking, Testing Levels & Types
     │                 └─► <a href="https://softuni.bg/certificates/details/153967/b70bae7c"><strong>See certificate</strong></a>
     │
     ├─► [Elective 2]  Software Technologies
-    │                 └─► Programming Languages, Databases, Project Management
+    │                 └─► Hardware/Software, Operating Systems, Databases, Project Management
     │                 └─► <a href="https://softuni.bg/certificates/details/176543/efb124ba"><strong>See certificate</strong></a>
     │
     ├─► [Elective 3]  QA Fundamentals and Manual Testing
-    │                 └─► Software Quality Assurance, Manual Testing
+    │                 └─► Black/White-box Testing, Regression, Postman, Defect Tracking
     │                 └─► <a href="https://softuni.bg/certificates/details/184220/6fb431ba"><strong>See certificate</strong></a>
     │
     ├───────► <strong>[Specialization Module]</strong>
     │
     └─► [Module 8]    DevOps Specialization ⭐
-                      └─► CI/CD, Docker, Cloud, Automation
+                      └─► Git/GitHub, CI/CD (Jenkins, Actions), Automation
                       └─► <a href="https://softuni.bg/certificates/details/252708/a82591ef"><strong>See certificate</strong></a>
 </pre>
 
